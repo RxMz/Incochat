@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Incochat</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome to Incochat!</string>
+    <string name="slide_1_desc">The world\'s first purely based incognito chat app</string>
+
+    <string name="slide_2_title">No registration required!</string>
+    <string name="slide_2_desc">Just put a display name and message!</string>
+
+    <string name="slide_3_title">Unique alphanumeric keys provided!</string>
+    <string name="slide_3_desc">Chat rooms get deleted once everyone leaves!</string>
+
+    <string name="slide_4_title">Let\'s get started!</string>
+    <string name="slide_4_desc">If you occur any issues please do mail us your phone model.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
